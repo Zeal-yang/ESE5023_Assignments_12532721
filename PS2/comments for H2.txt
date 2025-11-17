@@ -1,0 +1,4 @@
+
+1. (+0) You don’t have to show the whole table using display(styled_df); it might include more information than needed. A more focused display would be great.
+2. (+2) Good try for using statistical model!
+3. (+0) The requirement is to plot one variable, not all of them.
